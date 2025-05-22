@@ -10,7 +10,7 @@ I am a fourth-year electrical and computer engineering student at Nazarbayev Uni
 - 🚀 Building projects to enhance my resume
 - 🌐 Developing AI chat bots and agents for SAAS businesses
 
-Check out my [coding portfolio!](soon to be added)
+Check out my [https://soyelshyngys-portfolio.vercel.app/]
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shyngys-baizhan-70a899220/)
